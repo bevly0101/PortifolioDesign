@@ -1,0 +1,759 @@
+{
+    "dup_type": "lite",
+    "created": "2025-03-11 23:30:05",
+    "version_dup": "1.5.12",
+    "version_wp": "6.7.2",
+    "version_db": "8.0.35",
+    "version_php": "8.2.23",
+    "version_os": "WINNT",
+    "blogname": "Richards Fran\u00e7a",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$EGK.vbkXOAqHQc3gXrPsQ.1QdH\/E\/gkNmmwM9B86jy1CfIOoWQ1oS",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "richardsfranca.site",
+            "path": "\/",
+            "blogname": "Richards Fran\u00e7a",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "richards",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "http:\/\/richardsfranca.site",
+            "fullSiteUrl": "http:\/\/richardsfranca.site",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content\/uploads",
+            "fullUploadSafePath": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public\/wp-content\/uploads",
+            "fullUploadUrl": "http:\/\/richardsfranca.site\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": null,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "PHP",
+        "charSetList": [
+            "utf8mb4"
+        ],
+        "collationList": [
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "local",
+        "tablesBaseCount": 13,
+        "tablesFinalCount": 13,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 293,
+        "tablesSizeOnDisk": 3981312,
+        "tablesList": {
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 98304
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_options": {
+                "inaccurateRows": 169,
+                "insertedRows": 186,
+                "size": 2211840
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 35,
+                "insertedRows": 40,
+                "size": 81920
+            },
+            "wp_posts": {
+                "inaccurateRows": 46,
+                "insertedRows": 52,
+                "size": 1179648
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 12,
+                "insertedRows": 14,
+                "size": 32768
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 49152
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_terms": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 49152
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 19,
+                "insertedRows": 20,
+                "size": 49152
+            },
+            "wp_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 65536
+            }
+        },
+        "lowerCaseTableNames": 1,
+        "dbEngine": "MySQL",
+        "version": "8.0.35",
+        "versionComment": "MySQL Community Server - GPL",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "20250311_richardsfranca",
+        "packageHash": "32d341a-11233005",
+        "secondaryHash": "d6ccf84-11233005"
+    },
+    "fileInfo": {
+        "dirCount": 916,
+        "fileCount": 6246,
+        "size": 305883149
+    },
+    "wpInfo": {
+        "version": "6.7.2",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public",
+        "targetPaths": [
+            "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "richards",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "p+:l|Cr[(E9qaU&3ivX -e<NTcCzw.R<HyR`>;gZ]fQQxxfgO,>Y!<NfG#lm=CD9",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "6,Gs{4(x|b\/|sw0A`\/h?vM{2O3NNc ?`VuJc_l4WM2m(pC9a]>t7: ?f`{tL.i0P",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "WOl38m-)]l>V>Y4ll|EY!zLwcg#:xW(pSkqoZ~(?q0zz>Dggnzv09<EJAD](Kk^1",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "wWa|V:jglKJzRCIHE~cDaPG|u?(UOdR)O8 X3Lq(g?~-x)i0k&-Mma3Nb|,bB]OE",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "jI^\/GR]#O}h!Ok|Lr6#}Q<:(cPh|wl-}c:HR%E%jMHrS4O6+lkIQ?gbP=:tJ$\/Mt",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "}c~Rz[ mmJG%i#dh>W:UiuInSh;ukZd|^RFt!vI6vr >k0.gZ>[Ck.Gr![`qCmg[",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "0sX$|n,[v^Vv=|(@<7Y0o)Au6f_#3[+qZ<g.Q0,y(t{+&d J}Gcc*OeA``hTd{C@",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "CWn-@.u-m*zcEP;akYCWwxv@dB(8=[s:m&%-!4-pYs5Fpj}WQ9B|d1_QrB>1cXl+",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "http:\/\/richardsfranca.site\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "http:\/\/richardsfranca.site\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": "",
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content\/themes\/cv-workfolio",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content\/themes\/cv-workfolio",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "http:\/\/richardsfranca.site\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "http:\/\/richardsfranca.site",
+                "homeUrl": "http:\/\/richardsfranca.site",
+                "loginUrl": "http:\/\/richardsfranca.site\/wp-login.php",
+                "contentUrl": "http:\/\/richardsfranca.site\/wp-content",
+                "uploadBaseUrl": "http:\/\/richardsfranca.site\/wp-content\/uploads",
+                "pluginsUrl": "http:\/\/richardsfranca.site\/wp-content\/plugins",
+                "mupluginsUrl": "http:\/\/richardsfranca.site\/wp-content\/mu-plugins",
+                "themesUrl": "http:\/\/richardsfranca.site\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public",
+                    "abs": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public",
+                    "wpconfig": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public",
+                    "wpcontent": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content",
+                    "uploads": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content\/uploads",
+                    "plugins": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content\/plugins",
+                    "muplugins": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content\/mu-plugins",
+                    "themes": "C:\\Users\\olive\\Local Sites\\portifliodesign\\app\\public\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public",
+                    "abs": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public",
+                    "wpconfig": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public",
+                    "wpcontent": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public\/wp-content",
+                    "uploads": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public\/wp-content\/uploads",
+                    "plugins": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public\/wp-content\/plugins",
+                    "muplugins": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public\/wp-content\/mu-plugins",
+                    "themes": "C:\/Users\/olive\/Local Sites\/portifliodesign\/app\/public\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "advanced-import\/advanced-import.php": {
+                "slug": "advanced-import\/advanced-import.php",
+                "name": "Advanced Import",
+                "version": "1.4.5",
+                "pluginURI": "https:\/\/addonspress.com\/item\/advanced-import",
+                "author": "AddonsPress",
+                "authorURI": "https:\/\/addonspress.com\/",
+                "description": "Easily import demo data for WordPress sites, including posts, pages, media, widgets, customizer settings, and Gutenberg Blocks with ease.",
+                "title": "Advanced Import",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "cozy-addons\/cozy-addons.php": {
+                "slug": "cozy-addons\/cozy-addons.php",
+                "name": "Cozy Blocks",
+                "version": "2.1.8",
+                "pluginURI": "https:\/\/cozythemes.com\/cozy-addons",
+                "author": "CozyThemes",
+                "authorURI": "https:\/\/cozythemes.com\/",
+                "description": "Streamline your website designs with our library of advanced blocks designed to extend the WordPress Site Editor.",
+                "title": "Cozy Blocks",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "cozy-essential-addons\/cozy-essential-addons.php": {
+                "slug": "cozy-essential-addons\/cozy-essential-addons.php",
+                "name": "Cozy Essential Addons",
+                "version": "1.2.43",
+                "pluginURI": "https:\/\/cozythemes.com\/cozy-essential-addons",
+                "author": "CozyThemes",
+                "authorURI": "https:\/\/cozythemes.com\/",
+                "description": "Cozy Essential Addons is the free WordPress plugin for Custom post type and provides basic skeletal for custom post type list.",
+                "title": "Cozy Essential Addons",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.12",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "cv-workfolio": {
+                "slug": "cv-workfolio",
+                "themeName": "CV Workfolio",
+                "version": "1.4",
+                "themeURI": "https:\/\/www.titanthemes.net\/products\/free-cv-wordpress-theme",
+                "parentTheme": false,
+                "template": "cv-workfolio",
+                "stylesheet": "cv-workfolio",
+                "description": "The CV Workfolio WordPress Theme is a thoughtfully crafted solution for creating an impactful online presence. Designed for professionals, freelancers, and creatives, it simplifies the process of building a standout digital portfolio. Whether you\u2019re showcasing work samples, presenting a resume portfolio, or curating a project portfolio, this theme adapts seamlessly to various career paths. Ideal for photographers, designers, developers, and writers, it enables you to display achievements, projects, and career milestones in a visually compelling layout. With its modern design and user-friendly interface, the theme supports portfolio goals like job applications, client acquisition, and career advancement. Built for personalization, the CV Workfolio WordPress Theme includes versatile tools for portfolio presentation. Customizable portfolio layouts, interactive visuals, and sleek typography enhance the creative showcase of professional work samples. It supports multimedia formats like video, audio, and image galleries, making it a robust choice for content creators and marketing professionals. With optimized performance and responsive design, your online portfolio remains accessible and stunning across devices. The CV Workfolio WordPress Theme goes beyond aesthetics, offering practical benefits like SEO-friendly architecture and fast loading speeds. Ideal for recruiters and consultants seeking professional presentation, this WordPress theme redefines how career portfolios are built and presented in the digital space.",
+                "author": "Titan Themes",
+                "authorURI": "https:\/\/www.titanthemes.net\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "translation-ready",
+                    "sticky-post",
+                    "threaded-comments",
+                    "wide-blocks",
+                    "block-styles",
+                    "blog",
+                    "news",
+                    "portfolio"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "cww-portfolio": {
+                "slug": "cww-portfolio",
+                "themeName": "CWW Portfolio",
+                "version": "1.3.1",
+                "themeURI": "https:\/\/codeworkweb.com\/themes\/cww-portfolio",
+                "parentTheme": false,
+                "template": "cww-portfolio",
+                "stylesheet": "cww-portfolio",
+                "description": "This is useful theme for personal portfolio sites to pubish your personal websites in an style with easy configuration options. Get free support at https:\/\/codeworkweb.com\/contact\/  and Check demo at https:\/\/demo.codeworkweb.com\/cww-portfolio\/",
+                "author": "Code Work Web",
+                "authorURI": "https:\/\/codeworkweb.com\/",
+                "tags": [
+                    "custom-background",
+                    "custom-logo",
+                    "custom-menu",
+                    "featured-images",
+                    "threaded-comments",
+                    "translation-ready",
+                    "sticky-post",
+                    "rtl-language-support",
+                    "blog",
+                    "custom-colors",
+                    "portfolio"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "fotawp": {
+                "slug": "fotawp",
+                "themeName": "FotaWP",
+                "version": "2.0.3",
+                "themeURI": "https:\/\/cozythemes.com\/fotawp\/",
+                "parentTheme": false,
+                "template": "fotawp",
+                "stylesheet": "fotawp",
+                "description": "FotaWP is a lightweight, block-based, multipurpose WordPress theme designed to be responsive, SEO-friendly, and optimized for speed. It seamlessly integrates with both Full Site Editing (FSE) and your favorite page builder, Elementor. With over 130+ pre-built ready-to-use patterns, more than 40+ advanced Elementor widgets, and 28+ pre-built demos that can be imported with just one click. It is fully compatible with your favorite page builders and plugins, including Elementor, Gutenberg, Yoast SEO, RankMath, Contact Form, Jetpack, WooCommerce, and more. With FotaWP's exceptional support and compatibility with both FSE and Elementor, users can take full control over their site and achieve stunning websites as per their design and requirements, even with zero coding knowledge. Users can redesign and reconstruct their site from scratch with the help of our professionally crafted patterns and demos. With its wide range of features and customization options, FotaWP is suitable for various niches such as agencies, small businesses, corporate entities, startups, home services, HVAC services, education and e-learning platforms, health and fitness centers, insurance services, e-commerce shops and stores (WooCommerce), product catalogue, entertainment and media platforms, magazines, news outlets, bloggers, vloggers, writers, authors, automobile businesses, travel agencies, real estate firms, online courses and learning management systems (LMS), digital marketing agencies, SEO agencies, web agencies, consulting firms, technology companies, cybersecurity experts, public speakers, social media influencers, freelancers, portfolios and galleries, gadgets and technology enthusiasts, charities and nonprofit organizations, restaurants and food cafes, hotels and resorts, colleges, schools, pet care services, gardening and agriculture ventures, photography studios, art and creative studios, and various other professional services. Whether you're a developer or just starting out, FotaWP provides step-by-step documentation, video tutorials, and top-notch support to assist you on your journey. Discover more about FotaWP at https:\/\/www.cozythemes.com\/fotawp\/.",
+                "author": "CozyThemes",
+                "authorURI": "https:\/\/cozythemes.com\/",
+                "tags": [
+                    "blog",
+                    "one-column",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-logo",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "e-commerce",
+                    "full-site-editing",
+                    "block-patterns",
+                    "full-width-template",
+                    "rtl-language-support",
+                    "threaded-comments",
+                    "translation-ready",
+                    "block-styles",
+                    "wide-blocks"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "max-portfolio": {
+                "slug": "max-portfolio",
+                "themeName": "Max Portfolio",
+                "version": "1.0.2",
+                "themeURI": "https:\/\/codeworkweb.com\/wordpress-themes\/max-portfolio\/",
+                "parentTheme": "cww-portfolio",
+                "template": "cww-portfolio",
+                "stylesheet": "max-portfolio",
+                "description": "This is the child theme of CWW Portfolio. This theme is fully compatible with the popular WordPress page builder Elementor. This is a useful theme for personal portfolio sites to publish your personal websites in a style with easy configuration options. Get free support at https:\/\/codeworkweb.com\/contact\/  and Check demo at https:\/\/demo.codeworkweb.com\/cww-portfolio\/",
+                "author": "Code Work Web",
+                "authorURI": "https:\/\/codeworkweb.com\/",
+                "tags": [
+                    "custom-background",
+                    "custom-logo",
+                    "custom-menu",
+                    "featured-images",
+                    "threaded-comments",
+                    "translation-ready",
+                    "sticky-post",
+                    "rtl-language-support",
+                    "blog",
+                    "custom-colors",
+                    "portfolio"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "saaslauncher": {
+                "slug": "saaslauncher",
+                "themeName": "SaasLauncher",
+                "version": "1.0.19",
+                "themeURI": "https:\/\/cozythemes.com\/saaslauncher-wordpress-theme\/",
+                "parentTheme": false,
+                "template": "saaslauncher",
+                "stylesheet": "saaslauncher",
+                "description": "SaasLauncher is a powerful and versatile Full Site Editing (FSE) compatible, block-based WordPress theme, ideal for a wide range of websites. From corporate businesses and creative agencies to niche-specific projects like SaaS landing pages, mobile app landing page, tech startups, and digital agencies, SaasLauncher has you covered. It is designed to serve multiple industries, including software companies, real estate, professional services, consultancy, marketing agencies, hotels, hospitality, and more. With over ########## 50 PRE-BUILT SECTIONS, 50+ STARTER SITE TEMPLATES FOR VARIOUS BUSINESS NICHES WITH ONE CLICK DEMO IMPORTER, 20+ INTEGRATED FONTS ########## SaasLauncher includes pre-built layouts for the homepage and blog, as well as templates for essential pages like About Us, Contact, Services, and Pricing. It offers the perfect blend of functionality and design flexibility. Designed for global reach, it is available in ########## POPULAR LANGUAGES LIKE FRENCH, SPANISH, AND MULTIPLE ENGLISH VARIATIONS, AND IS RTL &amp; TRANSLATION-READY FOR ANY LANGUAGE ########## ensuring accessibility for a worldwide audience. The theme is also ideal for personal blogs, travel blogs, food blogs, health and wellness blogs, lifestyle blogs, and news or magazine websites. For e-commerce stores, it\u2019s WooCommerce compatible and supports online stores, minimal shops, fashion stores, electronics stores, handmade crafts, and more. SaasLauncher also excels for portfolio websites, digital agencies, charity and non-profit organization, pet care and services creative portfolios, graphic designers, photographers, freelancers, Author and writer, travel agency, health care, finance service, AI business, entrepreneur, influencer, bakery and coffee shop, home services, web hosting company, cyber security, constructions agency, HVAC and other professionals by offering creative design options and a minimalist aesthetic with pre-built templates for various niches to simplify website building. Whether you\u2019re creating a product showcase, real estate site, or corporate business or creative and digital agency site, SaasLauncher\u2019s responsive design ensures your site looks great on any device. It allows 100% customization, making it easy to tailor the theme to suit your brand identity. With its one-click demo importer, you can get started quickly, and the one-page theme design provides a streamlined experience. SaasLauncher is fully compatible with popular WordPress plugins like WooCommerce, Elementor, and Yoast SEO, offering seamless website building. SaasLauncher, integrated with ##########COZY BLOCKS' 50+ ADVANCED GUTENBERG BLOCKS ########## takes full site editing to the next level. This powerful integration makes it the most advanced WordPress theme, enabling the effortless creation of functional and stunning websites for any business niche. Explore features and demos at https:\/\/cozythemes.com\/saaslauncher-wordpress-theme\/.",
+                "author": "CozyThemes",
+                "authorURI": "https:\/\/cozythemes.com\/",
+                "tags": [
+                    "blog",
+                    "one-column",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-logo",
+                    "custom-menu",
+                    "editor-style",
+                    "style-variations",
+                    "featured-images",
+                    "portfolio",
+                    "e-commerce",
+                    "full-site-editing",
+                    "block-patterns",
+                    "full-width-template",
+                    "rtl-language-support",
+                    "threaded-comments",
+                    "translation-ready",
+                    "block-styles",
+                    "wide-blocks"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "showfolio": {
+                "slug": "showfolio",
+                "themeName": "Showfolio",
+                "version": "1.0.2",
+                "themeURI": "",
+                "parentTheme": "fotawp",
+                "template": "fotawp",
+                "stylesheet": "showfolio",
+                "description": "Showfolio is a personal portfolio child theme of FotaWP, designed specifically for freelancers, creative professionals, and artists to showcase their work with style and simplicity. Inheriting all the powerful features of FotaWP, Showfolio offers a sleek and minimalist design tailored for personal portfolios, allowing users to highlight their projects, skills, and achievements. With block-based full site editing, it makes it easy to create a visually striking and professional portfolio that reflects your unique personality and talents. Whether you're a designer, developer, or creative artist, Showfolio provides the perfect platform to display your work beautifully and effectively. Explore more features and demos at https:\/\/cozythemes.com\/fotawp\/",
+                "author": "CozyThemes",
+                "authorURI": "https:\/\/cozythemes.com\/",
+                "tags": [
+                    "blog",
+                    "one-column",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-logo",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "e-commerce",
+                    "full-site-editing",
+                    "block-patterns",
+                    "full-width-template",
+                    "rtl-language-support",
+                    "threaded-comments",
+                    "translation-ready",
+                    "block-styles",
+                    "wide-blocks"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentyfive": {
+                "slug": "twentytwentyfive",
+                "themeName": "Twenty Twenty-Five",
+                "version": "1.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfive\/",
+                "parentTheme": false,
+                "template": "twentytwentyfive",
+                "stylesheet": "twentytwentyfive",
+                "description": "Twenty Twenty-Five emphasizes simplicity and adaptability. It offers flexible design options, supported by a variety of patterns for different page types, such as services and landing pages, making it ideal for building personal blogs, professional portfolios, online magazines, or business websites. Its templates cater to various blog styles, from text-focused to image-heavy layouts. Additionally, it supports international typography and diverse color palettes, ensuring accessibility and customization for users worldwide.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            },
+            "twentytwentyfour": {
+                "slug": "twentytwentyfour",
+                "themeName": "Twenty Twenty-Four",
+                "version": "1.3",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfour\/",
+                "parentTheme": false,
+                "template": "twentytwentyfour",
+                "stylesheet": "twentytwentyfour",
+                "description": "Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.6",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Richards Fran\u00e7a"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20250311_richardsfranca_32d341af4855fa971511_20250311233005_installer-backup.php",
+    "package_name": "20250311_richardsfranca_32d341af4855fa971511_20250311233005_archive.zip",
+    "package_hash": "32d341a-11233005",
+    "package_notes": ""
+}
